@@ -5,7 +5,7 @@
 // NOTE: WILL NOT WORK ON TRINKET OR GEMMA due to floating-point math
 
 // Original source written by Adafruit https://github.com/adafruit/LPD8806
-// This version modified by EvasivePangolin
+// Modified Version: https://github.com/EvasivePangolin/LPD8806
 /*****************************************************************************/
 
 // Using 11 and 13 by default for Arduino Uno's hardware SPI.
